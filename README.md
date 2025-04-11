@@ -1,4 +1,4 @@
-# SCRIPT FOR /GIVE COMMAND
+# FIVEM SCRIPT FOR /GIVE COMMAND
 Script was made for ESX
 
 ## How is script working?
