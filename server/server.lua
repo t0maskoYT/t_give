@@ -116,7 +116,7 @@ AddEventHandler('pw_give:request', function(playerID, thing, count)
             count
         )
         exports['pw_logs']:sendToDiscord(
-            "https://discord.com/api/webhooks/1360257172277166101/y08sFQyR5XpigFMofbIGBE8tiUYhEHlQHxmNDcgwJrgwA78JS5AzlV0Khq3Xp9N44DDY",
+            "DISCORD WEBHOOK URL",
             "Give Item",
             logMessage,
             65280 -- Zelená barva
